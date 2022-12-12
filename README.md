@@ -1,2 +1,4 @@
 # conda-actions-test
-Testing actions workflow
+
+Following this guide
+https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
